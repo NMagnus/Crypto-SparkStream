@@ -75,8 +75,6 @@ object SparkStream extends App {
   })
     //.saveAsTextFiles("/home/nic/Documents/StreamData/binance")
 
-  //TODO add functionality to store data in mongoDB
-
   ssc.start()
   ssc.awaitTermination()
 
