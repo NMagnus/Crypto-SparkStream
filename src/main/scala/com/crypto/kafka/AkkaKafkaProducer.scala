@@ -18,6 +18,9 @@ import scala.concurrent.Promise
 
 object AkkaKafkaProducer {
 
+  //TODO add ability to Ping Binance & get list of top 5 Coins in last 24hrs then use that information to
+  // to populate the websockets used.
+
   val binanceURL = "wss://stream.binance.com:9443/ws/bnbbtc@trade"
   val topic = "testing"
 
