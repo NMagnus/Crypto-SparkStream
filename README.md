@@ -14,3 +14,4 @@
 - https://doc.akka.io/docs/akka-http/current/client-side/websocket-support-html
 - https://alvinalexander.com/scala/how-lift-json-parse-json-array-data-stocks
 - https://spark.apache.org/docs/latest/streaming-kafka-0-10-integration.html
+- https://github.com/binance-exchange/binance-official-api-docs/blob/master/web-socket-streams.md#trade-streams
